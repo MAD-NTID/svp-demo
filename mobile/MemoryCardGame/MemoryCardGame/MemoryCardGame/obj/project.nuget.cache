@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKUZ8bH74ygMx0f/f2cOqGcOB5x0OcBltM3Z7Jd4/huQQsF3lZmyOusU4pkvoPWH5EK12CzItz8w4uD6YYMhZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cyber\\source\\repos\\MemoryCardGame\\MemoryCardGame\\MemoryCardGame\\MemoryCardGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cyber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cyber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cyber\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cyber\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cyber\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

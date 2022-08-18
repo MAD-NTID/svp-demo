@@ -1,0 +1,15 @@
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\bin\Debug\netstandard2.0\MemoryCardGame.deps.json
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\bin\Debug\netstandard2.0\MemoryCardGame.dll
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\bin\Debug\netstandard2.0\ref\MemoryCardGame.dll
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\bin\Debug\netstandard2.0\MemoryCardGame.pdb
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.AssemblyInfoInputs.cache
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.AssemblyInfo.cs
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.csproj.CoreCompileInputs.cache
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.dll
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\ref\MemoryCardGame.dll
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.pdb
+C:\Users\cyber\source\repos\MemoryCardGame\MemoryCardGame\MemoryCardGame\obj\Debug\netstandard2.0\MemoryCardGame.csproj.AssemblyReference.cache
