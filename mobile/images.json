@@ -1,3 +1,17 @@
 {
-    "logo":"https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/logo.png"
+    "photos":[
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/iot.jpg",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/mobile.png",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/network.webp",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/pc.webp",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/programming.avif",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/web.jpeg",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/web.jpeg",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/programming.avif",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/pc.webp",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/network.webp",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/mobile.png",
+        "https://raw.githubusercontent.com/MAD-NTID/svp-demo/main/mobile/iot.jpg"
+
+    ]
 }
